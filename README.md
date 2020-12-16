@@ -1,1 +1,1 @@
-# AndroidStudioAppAss2
+# NewActivityAndroidStudioAppAss2
